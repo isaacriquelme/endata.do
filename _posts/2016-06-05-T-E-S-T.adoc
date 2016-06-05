@@ -1,0 +1,5 @@
+= TEST
+
+Test post 
+
+image::http://www.magnet360.com/wp-content/uploads/2013/09/TOOMUCHDATA.jpg[]
